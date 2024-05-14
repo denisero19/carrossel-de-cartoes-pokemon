@@ -15,4 +15,4 @@ Um projeto com 3 cartões de Pokémons contendo a descrição de cada um com seu
 
 Você pode acessar o código fonte do projeto 
 
-<>
+<https://github.com/denisero19/carrossel-de-cartoes-pokemon>
